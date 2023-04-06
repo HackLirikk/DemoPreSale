@@ -1,2 +1,3 @@
-# Simple Presale Solidity Smart-contract and web-site
 # DemoPreSale
+
+Простой лендинг предназанченный для покупки токена на пресейле, есть 2 стейджа, на первой стоимость токена 0,005 BNB, на втором 0,01 BNB
